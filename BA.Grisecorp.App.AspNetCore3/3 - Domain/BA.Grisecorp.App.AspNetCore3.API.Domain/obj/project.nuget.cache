@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cs6xh7z+bUVJGrgzEwkeNFGNeZQJjB6BjzJ+rewz/gpZSw5X8F0IRrGGdifADq3lB8K9nWarwn6yo5Mb2q76ig==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gesousa\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\gesousa\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\gesousa\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

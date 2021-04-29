@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting.IoC\\BA.Grisecorp.App.CrossCutting.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Application\\BA.Grisecorp.App.API.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Application\\BA.Grisecorp.App.API.Application.csproj",
+        "projectName": "BA.Grisecorp.App.API.Application",
+        "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Application\\BA.Grisecorp.App.API.Application.csproj",
+        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj": {
+                "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj",
+        "projectName": "BA.Grisecorp.App.API.Domain",
+        "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj",
+        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.5.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting.IoC\\BA.Grisecorp.App.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting.IoC\\BA.Grisecorp.App.CrossCutting.IoC.csproj",
+        "projectName": "BA.Grisecorp.App.CrossCutting.IoC",
+        "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting.IoC\\BA.Grisecorp.App.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Application\\BA.Grisecorp.App.API.Application.csproj": {
+                "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Application\\BA.Grisecorp.App.API.Application.csproj"
+              },
+              "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting\\BA.Grisecorp.App.CrossCutting.csproj": {
+                "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting\\BA.Grisecorp.App.CrossCutting.csproj"
+              },
+              "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.Infra.Data\\BA.Grisecorp.App.Infra.Data.csproj": {
+                "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.Infra.Data\\BA.Grisecorp.App.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting\\BA.Grisecorp.App.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting\\BA.Grisecorp.App.CrossCutting.csproj",
+        "projectName": "BA.Grisecorp.App.CrossCutting",
+        "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting\\BA.Grisecorp.App.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.Infra.Data\\BA.Grisecorp.App.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.Infra.Data\\BA.Grisecorp.App.Infra.Data.csproj",
+        "projectName": "BA.Grisecorp.App.Infra.Data",
+        "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.Infra.Data\\BA.Grisecorp.App.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj": {
+                "projectPath": "C:\\projects\\BA.Grisecorp.App.NetCore21\\BA.Grisecorp.App.API.Domain\\BA.Grisecorp.App.API.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="NBuilder" Version="6.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\2 - Application\BA.Grisecorp.App.AspNetCore3.API.Application\BA.Grisecorp.App.AspNetCore3.API.Application.csproj" />
+    <ProjectReference Include="..\..\4 - Infra\4.2 - CrossCutting\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\..\4 - Infra\4.2 - CrossCutting\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj" />
+  </ItemGroup>
+
+
+</Project>
