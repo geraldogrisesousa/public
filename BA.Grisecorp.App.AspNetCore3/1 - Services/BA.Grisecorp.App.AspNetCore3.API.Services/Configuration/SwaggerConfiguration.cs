@@ -26,7 +26,7 @@ namespace BA.Grisecorp.App.AspNetCore3.API.Services.Configuration
                         Description = "Aplicação Grisecorp",
                         Contact = new OpenApiContact
                         {
-                            Name = "Renato Groffe",
+                            Name = "Geraldo Grise",
                             Url = new Uri("http://grisrcorp.com")
                         }
                     });
