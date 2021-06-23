@@ -9,7 +9,7 @@ import Header from "./components/header/header"
 
 
 ReactDOM.render(
-  <BrowserRouter basename='/s001-Grisecorp'>
+  <BrowserRouter basename='/s001-Helman'>
      <GlobalContainer>
         <Header></Header>
         <div className="container">

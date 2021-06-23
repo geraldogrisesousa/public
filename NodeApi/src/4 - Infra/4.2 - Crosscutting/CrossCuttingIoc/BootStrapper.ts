@@ -13,14 +13,14 @@ export class BootStrapper
     public static RegisterServices(container: Container): void
     {
         /* --------------- Application -----------------------*/
-        container.bind<IStatusAppService>('StatusAppService').to(StatusAppService);
+       container.bind<IStatusAppService>('StatusAppService').to(StatusAppService);
 
        /* --------------- Domain -----------------------*/
        container.bind<IStatusService>('StatusService').to(StatusService);
     
-
        /* --------------- Data -----------------------*/
        container.bind<IStatusRepository>('StatusRepository').to(StatusRepository);
     }
+
 
 }
