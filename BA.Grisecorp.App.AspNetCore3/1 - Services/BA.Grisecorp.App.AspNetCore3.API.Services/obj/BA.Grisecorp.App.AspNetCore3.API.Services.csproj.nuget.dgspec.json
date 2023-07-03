@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj": {}
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj": {}
   },
   "projects": {
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj": {
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj",
+        "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj",
         "projectName": "BA.Grisecorp.App.AspNetCore3.API.Services",
-        "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj",
-        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\obj\\",
+        "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\BA.Grisecorp.App.AspNetCore3.API.Services.csproj",
+        "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+        "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\1 - Services\\BA.Grisecorp.App.AspNetCore3.API.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,19 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj"
               },
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj"
               },
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj"
               }
             }
           }
@@ -50,6 +53,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -86,7 +90,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -98,24 +103,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj": {
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj",
+        "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj",
         "projectName": "BA.Grisecorp.App.AspNetCore3.API.Application",
-        "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj",
-        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\obj\\",
+        "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj",
+        "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+        "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,13 +129,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj"
               }
             }
           }
@@ -142,6 +150,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -158,7 +167,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -167,24 +177,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj": {
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
+        "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
         "projectName": "BA.Grisecorp.App.AspNetCore3.API.Domain",
-        "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
-        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\obj\\",
+        "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
+        "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+        "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -192,10 +203,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -207,6 +220,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
@@ -223,7 +237,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -232,24 +247,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj": {
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj",
+        "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj",
         "projectName": "BA.Grisecorp.App.AspNetCore3.Infra.Data",
-        "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\obj\\",
+        "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+        "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,13 +273,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj"
               }
             }
           }
@@ -276,6 +294,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -300,7 +319,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -309,24 +329,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj": {
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj",
         "projectName": "BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj",
-        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\obj\\",
+        "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+        "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -334,19 +355,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\2 - Application\\BA.Grisecorp.App.AspNetCore3.API.Application\\BA.Grisecorp.App.AspNetCore3.API.Application.csproj"
               },
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.1 - Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data\\BA.Grisecorp.App.AspNetCore3.Infra.Data.csproj"
               },
-              "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj": {
-                "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj"
+              "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj"
               }
             }
           }
@@ -359,6 +382,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -371,7 +395,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -380,24 +405,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj": {
+    "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj",
         "projectName": "BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting",
-        "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\obj\\",
+        "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+        "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -405,10 +431,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -420,6 +448,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
@@ -432,7 +461,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -441,7 +471,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

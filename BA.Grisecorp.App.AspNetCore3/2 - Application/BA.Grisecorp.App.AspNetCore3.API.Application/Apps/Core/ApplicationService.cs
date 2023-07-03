@@ -33,9 +33,5 @@ namespace BA.Grisecorp.App.AspNetCore3.API.Application.Apps.Core
             _mediator.Publish(new DomainNotification(NotificationType.Error, GetType().Name, "Erro ao persistir dados."));
             return false;
         }
-
-
-
-
     }
 }

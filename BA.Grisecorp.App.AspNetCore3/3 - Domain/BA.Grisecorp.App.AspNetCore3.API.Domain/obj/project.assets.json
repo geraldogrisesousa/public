@@ -8,19 +8,27 @@
           "System.ComponentModel.Annotations": "4.4.1"
         },
         "compile": {
-          "lib/netstandard2.0/FluentValidation.dll": {}
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/FluentValidation.dll": {}
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR/8.0.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.1/MediatR.dll": {}
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/MediatR.dll": {}
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.ComponentModel.Annotations/4.4.1": {
@@ -167,23 +175,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gesousa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
+      "projectUniqueName": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
       "projectName": "BA.Grisecorp.App.AspNetCore3.API.Domain",
-      "projectPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
-      "packagesPath": "C:\\Users\\gesousa\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\obj\\",
+      "projectPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain.csproj",
+      "packagesPath": "C:\\Users\\ggsousa1\\.nuget\\packages\\",
+      "outputPath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\3 - Domain\\BA.Grisecorp.App.AspNetCore3.API.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gesousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ggsousa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -191,10 +200,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -206,6 +217,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "FluentValidation": {
             "target": "Package",
@@ -222,7 +234,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -231,7 +244,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

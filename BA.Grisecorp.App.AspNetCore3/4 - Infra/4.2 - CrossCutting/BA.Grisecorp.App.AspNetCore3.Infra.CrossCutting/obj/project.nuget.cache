@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "fIbiohE9t31lOa3ctM7S12WHoI8VeFF/lgVD7qiJN3pyeDZ8lOWcjKchPsfu7ksO+uKkSb73kJV1+wfsn2DaDg==",
+  "dgSpecHash": "RYjSvf320OQuvA3BpKUYEYQXyk2IfAQFSzKj0OZZIE+aGUDHVHgbnQivYvs0uZiUo8T5mI1m5FACOewHcfCKYg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\repisitories\\public\\BA.Grisecorp.App.AspNetCore3\\4 - Infra\\4.2 - CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting\\BA.Grisecorp.App.AspNetCore3.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gesousa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\gesousa\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\ggsousa1\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
